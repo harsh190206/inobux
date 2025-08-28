@@ -40,7 +40,7 @@ const Hero = () => {
                 </span>
               </h1>
               <p className="text-xl text-muted-foreground max-w-2xl">
-                Inobux delivers cutting-edge web development, mobile apps, data science, and UI/UX design services. 
+                InoBux delivers cutting-edge web development, mobile apps, data science, and UI/UX design services. 
                 We turn your ideas into powerful digital experiences that drive growth.
               </p>
             </div>

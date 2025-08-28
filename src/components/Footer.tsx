@@ -19,7 +19,7 @@ const Footer = () => {
                 <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-primary-glow/10 rounded-lg"></div>
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent">
-                Inobux
+                InoBux
               </span>
             </div>
             <p className="text-muted-foreground">
@@ -76,7 +76,7 @@ const Footer = () => {
 
         <div className="border-t border-border/50 mt-8 pt-8 text-center">
           <p className="text-muted-foreground">
-            &copy; {currentYear} Inobux. All rights reserved. Built with expertise and passion.
+            &copy; {currentYear} InoBux. All rights reserved. Built with expertise and passion.
           </p>
         </div>
       </div>

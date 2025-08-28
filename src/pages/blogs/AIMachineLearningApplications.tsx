@@ -55,7 +55,7 @@ const AIMachineLearningApplications = () => {
               <div className="bg-gradient-to-r from-primary/5 to-primary-glow/5 rounded-lg p-6 border border-primary/10 mb-8">
                 <h3 className="text-xl font-bold mb-4">Ready to Implement AI Solutions?</h3>
                 <p className="text-muted-foreground mb-4">
-                  Let Inobux help you identify AI opportunities and implement machine learning solutions that drive business value.
+                  Let InoBux help you identify AI opportunities and implement machine learning solutions that drive business value.
                 </p>
                 <Button 
                   onClick={() => window.open('https://mail.google.com/mail/?view=cm&fs=1&to=info@inobux.com&su=AI%20Project%20Consultation&body=Hi%20Inobux%20Team,%0A%0AI%27m%20interested%20in%20exploring%20AI%20solutions%20for%20my%20business.%0A%0ABest%20regards', '_blank')}

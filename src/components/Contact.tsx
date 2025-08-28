@@ -67,7 +67,7 @@ const Contact = () => {
             </div>
 
             <div className="bg-gradient-to-r from-primary/5 to-primary-glow/5 rounded-lg p-6 border border-primary/10">
-              <h4 className="font-semibold text-lg mb-2">Why Choose Inobux?</h4>
+              <h4 className="font-semibold text-lg mb-2">Why Choose InoBux?</h4>
               <ul className="space-y-2 text-muted-foreground">
                 <li>✓ Expert team with 5+ years experience</li>
                 <li>✓ Modern technologies and best practices</li>
